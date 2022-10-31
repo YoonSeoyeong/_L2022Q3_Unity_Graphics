@@ -1,4 +1,4 @@
-Shader "Custom/NewSurfaceShader"
+Shader "Custom/InteractiveShader 1"
 {
     Properties
     {
